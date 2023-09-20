@@ -1,0 +1,61 @@
+h1{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+h2{
+    flex-direction: row;
+    display: flex;
+    margin: 3% 40%;
+    font-size: 40px;
+}
+span{
+    flex-direction: row;
+    display: flex;
+    margin: 3% 30%;
+    font-size: 27px;  
+}
+#add{
+    flex-direction: row;
+    display: flex;
+    margin: 3% 35%;
+    padding: 5px 40px;
+    font-size: 27px;  
+}
+#sub{
+   
+    flex-direction: row;
+    display: flex;
+    margin: 3% 35%;
+    padding: 5px 40px;
+    font-size: 27px;  
+}
+#malti{
+    flex-direction: row;
+    display: flex;
+     margin: -12.5% 55%;
+     padding: 5px 30px;
+    font-size: 27px; 
+}
+#divi{
+    flex-direction: row;
+    display: flex;
+     margin: 15.5% 55%;
+     padding: 5px 40px;
+    font-size: 27px;   
+}
+img{
+    position: absolute;
+    top: 55%;
+    height: 250px;
+    width: 450px;
+    margin: 3% 35%;
+}
+h1{
+    position: absolute;
+    top: 40%;
+    height: 250px;
+    width: 450px;
+    margin: 3% 35%; 
+}
