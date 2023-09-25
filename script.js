@@ -16,7 +16,7 @@ addButton.onclick =()=>{
     resultHeader.innerText = result;}
 }
 function maltiplication(a,b){
-    return a+b;
+  return a*b;
 }
 maltiButton.onclick =()=>{ 
     let convertednum1 = parseInt(num1.value)
@@ -26,7 +26,7 @@ maltiButton.onclick =()=>{
     resultHeader.innerText = result;}
 }
 function subtraction(a,b){
-    return a+b;
+    return a-b;
 }
 subButton.onclick =()=>{ 
     let convertednum1 = parseInt(num1.value)
@@ -36,7 +36,7 @@ subButton.onclick =()=>{
     resultHeader.innerText = result;}
 }
 function divided(a,b){
-    return a+b;
+    return a/b;
 }
 diviButton.onclick =()=>{ 
     let convertednum1 = parseInt(num1.value)
